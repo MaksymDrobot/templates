@@ -18,9 +18,9 @@ For an API service (like Mailgun, SendGrid, Postmark) **you need to inline the C
 
 You can use this [Email CSS Inliner](https://htmlemail.io/inline/) or a module like [Juice](https://github.com/Automattic/juice) to do this automatically.
 
-* Copy all of email.html
-* Paste the HTML as the source into the inliner
-* Copy the HTML output and use this as the email template you send
+- Copy all of email.html
+- Paste the HTML as the source into the inliner
+- Copy the HTML output and use this as the email template you send
 
 ### Sending emails using a marketing service like Mailchimp?
 
@@ -30,11 +30,11 @@ Use the template `email.html` as is. They'll put the CSS inline for you when you
 
 When inserting images remember to include the following attributes or risk them breaking in different clients:
 
-* `src`
-* `alt`
-* `width`
-* `height`
-* `border`
+- `src`
+- `alt`
+- `width`
+- `height`
+- `border`
 
 Example:
 
@@ -52,10 +52,12 @@ Tested on mobile, desktop and web.
 
 ## More HTML email resources
 
-* [10 HTML Email Templates for Developers](https://htmlemail.io)
-* [An Introduction To Building And Sending HTML Email](https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-email-for-web-developers/)
-* [Grunt Email Design Workflow](https://github.com/leemunroe/grunt-email-design)
-* [Everything Web Developers Need To Know About Transactional Email](https://webdesign.tutsplus.com/articles/everything-developers-need-to-know-about-sending-transactional-email--cms-31759)
+- [10 HTML Email Templates for Developers](https://htmlemail.io)
+- [An Introduction To Building And Sending HTML Email](https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-email-for-web-developers/)
+- [Grunt Email Design Workflow](https://github.com/leemunroe/grunt-email-design)
+- [Everything Web Developers Need To Know About Transactional Email](https://webdesign.tutsplus.com/articles/everything-developers-need-to-know-about-sending-transactional-email--cms-31759)
 
 This free template is part of a pack of responsive email templates for developers and startups available on [HTML Email](https://htmlemail.io).
 [![image](https://user-images.githubusercontent.com/15963/49354042-c0bcb800-f675-11e8-92ef-7e9987b85bf6.png)](https://htmlemail.io)
+
+# templates
